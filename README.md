@@ -2,7 +2,6 @@
 This is spring mvc application with CRUD operations.
 
 Project can be downloaded via github. It is using maven, can be build with maven commands and run main class or with Jar file.
-I have also uploaded the jar to skip build steps and run the application.
 
 This is using spring boot and hibernate framework. I have used H2 in memory database to persist data and thymeleaf tempalate engine for view.
 
